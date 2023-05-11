@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mutual-funds/static/js/main.b4944893.js",
+    "index.html": "/mutual-funds/index.html",
+    "main.b4944893.js.map": "/mutual-funds/static/js/main.b4944893.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4944893.js"
+  ]
+}
